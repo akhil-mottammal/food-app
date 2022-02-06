@@ -1,0 +1,17 @@
+
+    .special-dish{
+        padding: 10px;
+        
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .special-dish:hover{
+        background-color:rgba(0, 3, 3, 0.45) ;
+       
+    }
+ 
+    .filtered-img{
+        padding: 10px;
+        border-radius: 10px;
+        
+    }

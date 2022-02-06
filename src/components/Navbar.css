@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    background-color: rgb(255, 208, 0);
+    top: 0;
+    z-index: 90;
+   
+}
+.navbar h3{
+    margin-left: 10px;
+    width: 10%;
+    color: rgb(17, 16, 16);
+    padding: 10px;
+    font-family: fantasy;
+    
+}
+.navbar a{
+    color: rgb(22, 22, 22);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-right: 20px;
+    font-weight: 700;
+}

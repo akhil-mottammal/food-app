@@ -1,0 +1,21 @@
+.about{
+    position: relative;
+    top: 70px;
+    text-align: center;
+    padding: 50px;
+  width: 100%;
+  margin: auto;
+    
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+    
+    
+}
+ .about img{
+width: 40%;
+border-radius: 20px;
+margin: 10px
+;}
+
